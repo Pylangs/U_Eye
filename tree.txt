@@ -1,0 +1,7 @@
+📦ueye
+ ┣ 📂chkpt          # Save
+ ┣ 📂dataset
+ ┃ ┣ 📂gaze
+ ┣ 📜.gitignore
+ ┣ 📜main.py        # Dataset
+ ┗ 📜start.sh
